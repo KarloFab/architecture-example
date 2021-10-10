@@ -1,8 +1,11 @@
-package com.architecture.example;
+package com.architecture.example.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * Maybe this should be in the root?
+ */
 @SpringBootApplication
 public class ExampleApplication {
 
